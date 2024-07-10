@@ -10,9 +10,9 @@ Tahapan-tahapan yang digunakan menggunakan beberapa metode processing antara lai
 3. Evaluasi menggunakan RMSE dan MAPE
 
 Untuk komponen library yang digunakan ialah sebagai berikut
-pandas    : 2.0.3
-tensorflow: 2.16.2
-keras     : 3.4.1
-seaborn   : 0.12.2
-numpy     : 1.24.3
-matplotlib: 3.7.2
+1. pandas    : 2.0.3
+2. tensorflow: 2.16.2
+3. keras     : 3.4.1
+4. seaborn   : 0.12.2
+5. numpy     : 1.24.3
+6. matplotlib: 3.7.2
